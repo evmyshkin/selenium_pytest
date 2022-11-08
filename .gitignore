@@ -1,0 +1,6 @@
+bin/
+include/
+lib/
+geckodriver.log
+pyvenv.cfg
+.pytest_cache
