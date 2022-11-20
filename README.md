@@ -1,4 +1,4 @@
-# Проект с авто-тестами с курса Stepik «Автоматизация тестирования с помощью Selenium и Python»
+# Проект с авто-тестами на Selenium + Pytest на учебном сайте
 
 ## Подготовка к использованию проекта в среде MacOS
 1. Установить python 3.6 и выше: [Python.org](https://www.python.org/downloads/)
